@@ -34,8 +34,8 @@ A Python-based application designed to manage book records efficiently. Utilizin
 
 ### Running the Application
 
-Run the application using the command:
-python menu.py
+1. Run the application using the command:
+   python menu.py
 
 ## Usage
 

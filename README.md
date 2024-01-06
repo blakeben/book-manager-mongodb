@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Book Manager with MongoDB" is a Python-based application designed to manage book records efficiently. Utilizing MongoDB as the database, it provides a streamlined interface for adding, updating, and deleting book records.
+A Python-based application designed to manage book records efficiently. Utilizing MongoDB as the database, it provides a streamlined interface for adding, updating, and deleting book records.
 
 ## Features
 

@@ -27,15 +27,15 @@ A Python-based application designed to manage book records efficiently. Utilizin
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/blakeben/book-manager-mongodb.git
+```git clone https://github.com/blakeben/book-manager-mongodb.git```
 
 2. Navigate to the project directory:
-   cd Book-Manager-MongoDB
+```cd Book-Manager-MongoDB```
 
 ### Running the Application
 
 1. Run the application using the command:
-   python menu.py
+```python menu.py```
 
 ## Usage
 
